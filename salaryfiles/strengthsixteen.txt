@@ -1,8 +1,8 @@
-rank,school,conf,asscoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
+rank,school,conf,astcoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
 1,Iowa,Big Ten,Chris Doyle,625000.0,625204.0,0.0,3610000.0,nan,Power Five
 2,Alabama,SEC,Scott Cochran,525000.0,525000.0,115500.0,5320000.0,nan,Power Five
 3,Ohio State,Big Ten,Mickey Marotti,520500.0,520500.0,197370.0,4583100.0,nan,Power Five
-4,UCLA,Pac-12,Sal Alosi,410000.0,410000.0,100000.0,3955000.0,nan,Power Five
+4,UCLA,Pac-12,Sal Alosi,410000.0,410000.0,100000.0,3955000.0,nan,Others
 5,South Carolina,SEC,Jeff Dillman,400000.0,400000.0,115000.0,3952400.0,nan,Power Five
 6,Oklahoma State,Big 12,Rob Glass,395000.0,395000.0,90833.0,3283999.0,nan,Power Five
 7,Mississippi,SEC,Paul Jackson,375000.0,375000.0,45000.0,4261700.0,nan,Power Five
@@ -15,15 +15,15 @@ rank,school,conf,asscoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
 14,Oklahoma,Big 12,Jerry Schmidt,330000.0,330000.0,72916.0,4390900.0,nan,Power Five
 15,Texas A&M,SEC,Larry Jackson,315000.0,315000.0,75600.0,4811000.0,nan,Power Five
 16,Kansas State,Big 12,Chris Dawson,310000.0,310200.0,119200.0,3203525.0,nan,Power Five
-17,Washington,Pac-12,Tim Socha,285000.0,292500.0,96000.0,3553578.0,nan,Power Five
+17,Washington,Pac-12,Tim Socha,285000.0,292500.0,96000.0,3553578.0,nan,Others
 18,Auburn,SEC,Ryan Russell,285000.0,286250.0,111250.0,4456250.0,nan,Power Five
 19,Maryland,Big Ten,Rick Court,285000.0,285000.0,55000.0,2907500.0,nan,Power Five
 20,Michigan State,Big Ten,Ken Mannie,271781.0,274231.0,94078.0,3445098.0,nan,Power Five
 21,East Carolina,AAC,Jeff Connors,270361.0,271861.0,5000.0,1701500.0,nan,Others
 22,Houston,AAC,Yancy McKnight,263550.0,263550.0,44804.0,2419000.0,nan,Others
 23,Rutgers,Big Ten,Kenny Parker,260000.0,260000.0,0.0,2340000.0,nan,Power Five
-24,Arizona State,Pac-12,Shawn Griswold,255000.0,255000.0,92414.0,3255000.0,nan,Power Five
-25,Washington State,Pac-12,Jason Lascalzo,251500.0,251500.0,0.0,2662000.0,nan,Power Five
+24,Arizona State,Pac-12,Shawn Griswold,255000.0,255000.0,92414.0,3255000.0,nan,Others
+25,Washington State,Pac-12,Jason Lascalzo,251500.0,251500.0,0.0,2662000.0,nan,Others
 26,Michigan,Big Ten,Kevin Tolbert,250000.0,250000.0,41667.0,4308750.0,nan,Power Five
 27,Minnesota,Big Ten,Eric Klein,246840.0,246840.0,71710.0,2932000.0,nan,Power Five
 28,Wisconsin,Big Ten,Ross Kolodziej,240000.0,240835.0,93600.0,2862520.0,nan,Power Five
@@ -32,7 +32,7 @@ rank,school,conf,asscoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
 31,West Virginia,Big 12,Mike Joseph,238000.0,238000.0,72500.0,2686025.0,nan,Power Five
 32,Connecticut,AAC,Matt Balis,227217.0,227217.0,37870.0,1893802.0,nan,Others
 33,Illinois,Big Ten,Joey Boese,225000.0,225000.0,94500.0,3245000.0,nan,Power Five
-34,Oregon,Pac-12,Jim Radcliffe,211200.0,216300.0,25000.0,3622484.0,nan,Power Five
+34,Oregon,Pac-12,Jim Radcliffe,211200.0,216300.0,25000.0,3622484.0,nan,Others
 35,Purdue,Big Ten,Duane Carlisle,214212.0,214212.0,0.0,2495000.0,nan,Power Five
 36,Nebraska,Big Ten,Mark Philipp,211150.0,211150.0,84463.0,3758626.0,nan,Power Five
 37,Iowa State,Big 12,Rudy Wade,210000.0,210000.0,17430.0,2318250.0,nan,Power Five
@@ -42,11 +42,11 @@ rank,school,conf,asscoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
 41,Texas Tech,Big 12,Rusty Whitt,200000.0,200000.0,16667.0,2247900.0,nan,Power Five
 42,Kansas,Big 12,Je'Ney Jackson,195000.0,195000.0,0.0,2300599.0,nan,Power Five
 43,Virginia Tech,ACC,Ben Hilgart,190000.0,190000.0,0.0,3359000.0,nan,Power Five
-44,Utah,Pac-12,Doug Elisaia,181000.0,181000.0,30167.0,2900000.0,nan,Power Five
-45,Colorado,Pac-12,Drew Wilson,180625.0,180625.0,34615.0,2661601.0,nan,Power Five
+44,Utah,Pac-12,Doug Elisaia,181000.0,181000.0,30167.0,2900000.0,nan,Others
+45,Colorado,Pac-12,Drew Wilson,180625.0,180625.0,34615.0,2661601.0,nan,Others
 46,Louisville,ACC,Joe Miday,174850.0,175850.0,0.0,3839500.0,nan,Power Five
 47,North Carolina State,ACC,Dantonio Burnette,175000.0,175000.0,0.0,2966365.0,nan,Power Five
-48,Arizona,Pac-12,Chris Allen,167633.0,169633.0,13969.0,2834900.0,nan,Power Five
+48,Arizona,Pac-12,Chris Allen,167633.0,169633.0,13969.0,2834900.0,nan,Others
 49,San Diego State,Mt. West,Adam Hall,165468.0,166968.0,0.0,1594448.0,nan,Others
 50,North Carolina,ACC,Lou Hernandez,166531.0,166531.0,27755.0,2598400.0,nan,Power Five
 51,Georgia,SEC,Ed Ellis,166000.0,166000.0,0.0,4675000.0,nan,Power Five
@@ -54,9 +54,9 @@ rank,school,conf,asscoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
 53,Southern Mississippi,C-USA,Zac Woodfin,165000.0,165000.0,13750.0,900500.0,nan,Others
 54,Memphis,AAC,Josh Storms,165000.0,165000.0,13750.0,2149500.0,nan,Others
 55,Georgia Tech,ACC,John Sisk,164500.0,164500.0,13708.0,2534515.0,nan,Power Five
-56,California,Pac-12,Damon Harrington,150000.0,151900.0,8000.0,2675600.0,nan,Power Five
+56,California,Pac-12,Damon Harrington,150000.0,151900.0,8000.0,2675600.0,nan,Others
 57,Virginia,ACC,Frank Wintrich,150000.0,150000.0,37500.0,3030000.0,nan,Power Five
-58,Oregon State,Pac-12,Evan Simon,150000.0,150000.0,25000.0,2736691.0,nan,Power Five
+58,Oregon State,Pac-12,Evan Simon,150000.0,150000.0,25000.0,2736691.0,nan,Others
 59,Mississippi State,SEC,Nick Savage,150000.0,150000.0,12500.0,3295000.0,nan,Power Five
 60,Colorado State,Mt. West,Ryan Davis,142520.0,142520.0,0.0,1845555.0,nan,Others
 61,Boise State,Mt. West,Jeff Pitman,138612.0,139362.0,13931.0,2052597.0,nan,Others
@@ -114,8 +114,8 @@ rank,school,conf,asscoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category
 113,Tulane,AAC,Kyle Speer,,,,,nan,Others
 114,Brigham Young,Ind.,Nu'u Tafisi,,,,,nan,Others
 115,Rice,C-USA,Ryan Tedford,,,,,nan,Others
-116,Stanford,Pac-12,Shannon Turley,,,,,nan,Power Five
-117,Southern California,Pac-12,Ivan Lewis,,,,,nan,Power Five
+116,Stanford,Pac-12,Shannon Turley,,,,,nan,Others
+117,Southern California,Pac-12,Ivan Lewis,,,,,nan,Others
 118,Vanderbilt,SEC,James Dobson,,,,,nan,Power Five
 119,Penn State,Big Ten,Dwight Galt,,,,,nan,Power Five
 120,Boston College,ACC,Frank Piraino,,,,,nan,Power Five
