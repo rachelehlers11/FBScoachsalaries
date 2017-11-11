@@ -3,9 +3,9 @@ rank,school,conf,headcoach,schoolpay,totalpay,maxbonus,bonusespaid,stafftotal,bu
 2,Clemson,ACC,Dabo Swinney,8504600.0,8526800.0,1000000.0,1525000.0,,40000000,Power Five
 3,Michigan,Big Ten,Jim Harbaugh,7004000.0,7004000.0,1325000.0,200000.0,,20555556,Power Five
 4,Ohio State,Big Ten,Urban Meyer,6431240.0,6431240.0,775000.0,300000.0,,21345100,Power Five
-5,Arizona,Pac-12,Rich Rodriguez,5631563.0,6031563.0,2025000.0,25000.0,,6487500,Others
+5,Arizona,Pac-12,Rich Rodriguez,5631563.0,6031563.0,2025000.0,25000.0,,6487500,Power Five
 6,Florida State,ACC,Jimbo Fisher,5700000.0,5700000.0,1475000.0,200000.0,,39312500,Power Five
-7,Stanford,Pac-12,David Shaw,5680441.0,5680441.0,,,,nan,Others
+7,Stanford,Pac-12,David Shaw,5680441.0,5680441.0,,,,nan,Power Five
 8,Texas,Big 12,Tom Herman,5486316.0,5486316.0,725000.0,,,20416667,Power Five
 9,Texas Christian,Big 12,Gary Patterson,5104077.0,5104077.0,,,,nan,Power Five
 10,Texas A&M,SEC,Kevin Sumlin,5000000.0,5000000.0,1050000.0,100000.0,,10416667,Power Five
@@ -17,13 +17,13 @@ rank,school,conf,headcoach,schoolpay,totalpay,maxbonus,bonusespaid,stafftotal,bu
 16,Michigan State,Big Ten,Mark Dantonio,4380492.0,4390492.0,650000.0,0.0,,7000000,Power Five
 17,Arkansas,SEC,Bret Bielema,4200000.0,4245000.0,1000000.0,125000.0,,5874227,Power Five
 18,Oklahoma State,Big 12,Mike Gundy,4200000.0,4200000.0,900000.0,62500.0,,13800000,Power Five
-19,Washington,Pac-12,Chris Petersen,4125000.0,4127500.0,1050000.0,675000.0,,30671875,Others
+19,Washington,Pac-12,Chris Petersen,4125000.0,4127500.0,1050000.0,675000.0,,30671875,Power Five
 20,Tennessee,SEC,Butch Jones,4110000.0,4110000.0,1000000.0,250000.0,,8125000,Power Five
 21,Louisville,ACC,Bobby Petrino,3930434.0,3930434.0,1468750.0,989584.0,,13943750,Power Five
 22,Kentucky,SEC,Mark Stoops,3750000.0,3763600.0,3100000.0,425000.0,,14765625,Power Five
 23,Georgia,SEC,Kirby Smart,3753600.0,3753600.0,1800000.0,75000.0,,10800000,Power Five
-24,Utah,Pac-12,Kyle Whittingham,3687917.0,3687917.0,935000.0,330833.0,,12250000,Others
-25,UCLA,Pac-12,Jim Mora,3550000.0,3550000.0,1065000.0,95000.0,,12275000,Others
+24,Utah,Pac-12,Kyle Whittingham,3687917.0,3687917.0,935000.0,330833.0,,12250000,Power Five
+25,UCLA,Pac-12,Jim Mora,3550000.0,3550000.0,1065000.0,95000.0,,12275000,Power Five
 26,West Virginia,Big 12,Dana Holgorsen,3505000.0,3505000.0,750000.0,185000.0,,10141667,Power Five
 27,Texas Tech,Big 12,Kliff Kingsbury,3503975.0,3503975.0,1500000.0,90000.0,,6993750,Power Five
 28,LSU,SEC,Ed Orgeron,3500000.0,3500000.0,1575000.0,25000.0,,8791667,Power Five
@@ -32,18 +32,18 @@ rank,school,conf,headcoach,schoolpay,totalpay,maxbonus,bonusespaid,stafftotal,bu
 31,Purdue,Big Ten,Jeff Brohm,3333333.0,3333333.0,1200000.0,,,15844445,Power Five
 32,Northwestern,Big Ten,Pat Fitzgerald,3305818.0,3305818.0,,,,nan,Power Five
 33,Virginia Tech,ACC,Justin Fuente,3250000.0,3250000.0,435000.0,125000.0,,15000000,Power Five
-34,Arizona State,Pac-12,Todd Graham,3200000.0,3208779.0,3906000.0,445000.0,,12266667,Others
+34,Arizona State,Pac-12,Todd Graham,3200000.0,3208779.0,3906000.0,445000.0,,12266667,Power Five
 35,Kansas State,Big 12,Bill Snyder,3200000.0,3205000.0,580000.0,50000.0,,2000000,Power Five
 36,Wisconsin,Big Ten,Paul Chryst,3200000.0,3200000.0,,260000.0,,4000000,Power Five
 37,South Carolina,SEC,Will Muschamp,3100000.0,3100000.0,1075000.0,125000.0,,7188333,Power Five
-38,Washington State,Pac-12,Mike Leach,3075000.0,3075000.0,725000.0,75000.0,,4900000,Others
+38,Washington State,Pac-12,Mike Leach,3075000.0,3075000.0,725000.0,75000.0,,4900000,Power Five
 39,Illinois,Big Ten,Lovie Smith,3000000.0,3000000.0,1000000.0,75000.0,,16500000,Power Five
 40,Georgia Tech,ACC,Paul Johnson,2970891.0,2970891.0,1050000.0,425000.0,,3247574,Power Five
 41,Nebraska,Big Ten,Mike Riley,2900000.0,2900000.0,950000.0,150000.0,,6630000,Power Five
-42,Oregon,Pac-12,Willie Taggart,2900000.0,2900000.0,1825000.0,,,8150000,Others
-43,Colorado,Pac-12,Mike MacIntyre,2803500.0,2803500.0,2150000.0,772500.0,,13483333,Others
+42,Oregon,Pac-12,Willie Taggart,2900000.0,2900000.0,1825000.0,,,8150000,Power Five
+43,Colorado,Pac-12,Mike MacIntyre,2803500.0,2803500.0,2150000.0,772500.0,,13483333,Power Five
 44,Vanderbilt,SEC,Derek Mason,2721834.0,2721834.0,,,,nan,Power Five
-45,Oregon State,Pac-12,Gary Andersen,2650000.0,2650000.0,525000.0,50000.0,,nan,Others
+45,Oregon State,Pac-12,Gary Andersen,2650000.0,2650000.0,525000.0,50000.0,,nan,Power Five
 46,Duke,ACC,David Cutcliffe,2613638.0,2613638.0,,,,nan,Power Five
 47,Maryland,Big Ten,DJ Durkin,2462000.0,2462000.0,625000.0,25000.0,,6833104,Power Five
 48,Boston College,ACC,Steve Addazio,2448949.0,2448949.0,,,,nan,Power Five
@@ -64,7 +64,7 @@ rank,school,conf,headcoach,schoolpay,totalpay,maxbonus,bonusespaid,stafftotal,bu
 63,Houston,AAC,Major Applewhite,1750000.0,1750000.0,782500.0,,,2762500,Others
 64,Notre Dame,Ind.,Brian Kelly,1645867.0,1645867.0,,,,nan,Others
 65,Kansas,Big 12,David Beaty,1601109.0,1601109.0,1750000.0,25000.0,,3000000,Power Five
-66,California,Pac-12,Justin Wilcox,1600000.0,1600000.0,900000.0,,,8708500,Others
+66,California,Pac-12,Justin Wilcox,1600000.0,1600000.0,900000.0,,,8708500,Power Five
 67,Boise State,Mt. West,Bryan Harsin,1550004.0,1550004.0,475000.0,55000.0,,7366925,Others
 68,Colorado State,Mt. West,Mike Bobo,1550000.0,1550000.0,785000.0,50000.0,,3000000,Others
 69,Fresno State,Mt. West,Jeff Tedford,1550000.0,1550000.0,2765000.0,,,5080000,Others
@@ -122,7 +122,7 @@ rank,school,conf,headcoach,schoolpay,totalpay,maxbonus,bonusespaid,stafftotal,bu
 121,New Mexico State,Sun Belt,Doug Martin,376044.0,376044.0,135000.0,0.0,,30337,Others
 122,Miami (Fla.),ACC,Mark Richt,,,,,,nan,Power Five
 123,Air Force,Mt. West,Troy Calhoun,,,,,,nan,Others
-124,Southern California,Pac-12,Clay Helton,,,,,,nan,Others
+124,Southern California,Pac-12,Clay Helton,,,,,,nan,Power Five
 125,Temple,AAC,Geoff Collins,,,,,,nan,Others
 126,Syracuse,ACC,Dino Babers,,,,,,nan,Power Five
 127,Tulane,AAC,Willie Fritz,,,,,,nan,Others

@@ -100,7 +100,7 @@ dflist = [fourteen, fifteen, sixteen, seventeen, astfourteen, astfifteen, \
 
 numericcolumns = ['rank', 'schoolpay', 'otherpay', 'totalpay', 'maxbonus', \
                   'bonusespaid', 'stafftotal']
-powerfive = ['ACC', 'SEC', 'Big Ten', 'Big 12', 'PAC-12']
+powerfive = ['ACC', 'SEC', 'Big Ten', 'Big 12', 'PAC-12', 'Pac-12']
 
 
 for item in dflist:
@@ -120,8 +120,8 @@ for item in dflist:
 
 # Option: export to CSV. If any changes are made re-write them
 
-os.chdir('FAKEPATH/ncaafootballsalaries2016/salaryfiles')
-f = '~/ncaafootballsalaries2016/salaryfiles'
+os.chdir('/Users/rachelehlers/Desktop/DataBlogIdeas/sportsalary/FBSsalaries/salaryfiles')
+f = '/Users/rachelehlers/Desktop/DataBlogIdeas/sportsalary/FBSsalaries/salaryfiles'
 file = open('fourteen.txt', 'w', encoding = 'utf-8')
 file.write(fourteen.to_csv(path = f, index = False))
 file.close()
