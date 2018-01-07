@@ -1,0 +1,132 @@
+rank,school,conf,strengthcoach,schoolpay,totalpay,maxbonus,stafftotal,buyout,category,complete,proportion
+1,Iowa,Big Ten,Chris Doyle,675000.0,675000.0,135000.0,3870000.0,nan,Power Five,yes,0.1744186046511628
+2,Ohio State,Big Ten,Mickey Marotti,562440.0,562440.0,215133.0,4485000.0,nan,Power Five,yes,0.1254046822742475
+3,Alabama,SEC,Scott Cochran,535000.0,535000.0,117700.0,5995000.0,nan,Power Five,yes,0.08924103419516263
+4,Clemson,ACC,Joey Batson,450000.0,450000.0,95000.0,5725000.0,nan,Power Five,yes,0.07860262008733625
+5,Oklahoma State,Big 12,Rob Glass,425000.0,425000.0,121250.0,3641314.0,nan,Power Five,yes,0.1167161085256586
+6,Texas,Big 12,Yancy McKnight,425000.0,425000.0,100000.0,4600000.0,nan,Power Five,yes,0.09239130434782608
+7,LSU,SEC,Tommy Moffitt,410000.0,410000.0,75000.0,5915000.0,nan,Power Five,yes,0.06931530008453085
+8,UCLA,Pac-12,Sal Alosi,410000.0,410000.0,100000.0,3707500.0,nan,Power Five,yes,0.11058664868509778
+9,South Carolina,SEC,Jeff Dillman,400000.0,400000.0,115000.0,4000000.0,nan,Power Five,yes,0.1
+10,Missouri,SEC,Rohrk Cutchlow,390000.0,390000.0,124200.0,3778000.0,nan,Power Five,yes,0.10322922181048173
+11,Mississippi,SEC,Paul Jackson,375000.0,375000.0,0.0,4075000.0,nan,Power Five,yes,0.09202453987730061
+12,Tennessee,SEC,Rock Gullickson,375000.0,375000.0,90000.0,4655400.0,nan,Power Five,yes,0.08055161747647893
+13,Florida State,ACC,Vic Viloria,372000.0,372000.0,67000.0,4691000.0,nan,Power Five,yes,0.07930078874440417
+14,Arkansas,SEC,Ben Herbert,350000.0,352000.0,116667.0,3947000.0,nan,Power Five,yes,0.0886749429946795
+15,Oklahoma,Big 12,Jerry Schmidt,339000.0,339000.0,72916.0,4310000.0,nan,Power Five,yes,0.07865429234338747
+16,Washington,Pac-12,Tim Socha,315000.0,321000.0,96000.0,4678040.0,nan,Power Five,yes,0.06733589280980924
+17,Kansas State,Big 12,Chris Dawson,320000.0,320200.0,122400.0,3001600.0,nan,Power Five,yes,0.10660980810234541
+18,Kansas,Big 12,Zac Woodfin,300000.0,300000.0,0.0,2958599.0,nan,Power Five,yes,0.10139934475743417
+19,Auburn,SEC,Ryan Russell,300000.0,300000.0,115000.0,4875000.0,nan,Power Five,yes,0.06153846153846154
+20,Georgia,SEC,Scott Sinclair,300000.0,300000.0,0.0,4565200.0,nan,Power Five,yes,0.06571453605537544
+21,Wisconsin,Big Ten,Ross Kolodziej,300000.0,300000.0,0.0,3359600.0,nan,Power Five,yes,0.08929634480295273
+22,Maryland,Big Ten,Rick Court,285000.0,285000.0,142500.0,3185000.0,nan,Power Five,yes,0.08948194662480377
+23,Michigan State,Big Ten,Ken Mannie,278575.0,280975.0,96430.0,3529120.0,nan,Power Five,yes,0.07893610871832071
+24,Arizona State,Pac-12,Shawn Griswold,276000.0,276000.0,96333.0,3520000.0,nan,Power Five,yes,0.07840909090909091
+25,Texas A&M,SEC,Mark Hocke,275000.0,275000.0,66000.0,4818000.0,nan,Power Five,yes,0.05707762557077625
+26,Rutgers,Big Ten,Kenny Parker,267800.0,267800.0,0.0,2840800.0,nan,Power Five,yes,0.09426921993804561
+27,Washington State,Pac-12,Jason Lascalzo,266500.0,266500.0,0.0,2742000.0,nan,Power Five,yes,0.09719183078045222
+28,Michigan,Big Ten,Kevin Tolbert,250000.0,250000.0,41667.0,5645000.0,nan,Power Five,yes,0.04428697962798937
+29,Florida,SEC,Mike Kent,245750.0,245750.0,98300.0,4997825.0,nan,Power Five,yes,0.049171389554456185
+30,West Virginia,Big 12,Mike Joseph,238000.0,238000.0,72500.0,3107000.0,nan,Power Five,yes,0.0766012230447377
+31,Minnesota,Big Ten,Dan Nichol,230000.0,230000.0,65000.0,3435000.0,nan,Power Five,yes,0.06695778748180495
+32,Illinois,Big Ten,Joey Boese,227250.0,227250.0,95445.0,3360000.0,nan,Power Five,yes,0.06763392857142857
+33,California,Pac-12,Torre Becton,225000.0,225000.0,8000.0,2966000.0,nan,Power Five,yes,0.07585974376264329
+34,Nebraska,Big Ten,Mark Philipp,225000.0,225000.0,90000.0,3725375.0,nan,Power Five,yes,0.06039660436868772
+35,Connecticut,AAC,Eric Klein,220000.0,220000.0,67692.0,1885000.0,nan,Others,yes,0.11671087533156499
+36,Colorado,Pac-12,Drew Wilson,220000.0,220000.0,45834.0,3066269.0,nan,Power Five,yes,0.07174843433501757
+37,Iowa State,Big 12,Rudy Wade,215000.0,215000.0,17845.0,2492250.0,nan,Power Five,yes,0.08626742902999297
+38,Kentucky,SEC,Mark Hill,205000.0,205000.0,0.0,4025000.0,nan,Power Five,yes,0.05093167701863354
+39,Indiana,Big Ten,Keith Caton,205000.0,205000.0,16667.0,2499362.0,nan,Power Five,yes,0.0820209317417805
+40,Texas Tech,Big 12,Rusty Whitt,200000.0,200000.0,16667.0,2395000.0,nan,Power Five,yes,0.08350730688935282
+41,Memphis,AAC,Josh Storms,200000.0,200000.0,5000.0,1998500.0,nan,Others,yes,0.10007505629221916
+42,Purdue,Big Ten,Justin Lovett,200000.0,200000.0,0.0,3050000.0,nan,Power Five,yes,0.06557377049180328
+43,East Carolina,AAC,Jeff Connors,195361.0,195361.0,5000.0,1655150.0,nan,Others,yes,0.11803220251940912
+44,North Carolina State,ACC,Dantonio Burnette,190000.0,190000.0,70000.0,3065294.0,nan,Power Five,yes,0.06198426643578071
+45,Virginia Tech,ACC,Ben Hilgart,190000.0,190000.0,0.0,3384000.0,nan,Power Five,yes,0.05614657210401891
+46,Cincinnati,AAC,Brady Collins,185000.0,185000.0,30833.0,2326250.0,nan,Others,yes,0.07952713594841483
+47,Utah,Pac-12,Doug Elisaia,184620.0,184620.0,30770.0,3125000.0,nan,Power Five,yes,0.0590784
+48,Houston,AAC,Rod Grace,180000.0,180000.0,30600.0,2105000.0,nan,Others,yes,0.0855106888361045
+49,Oregon,Pac-12,Irele Oderinde,180000.0,180000.0,0.0,3945000.0,nan,Power Five,yes,0.045627376425855515
+50,San Diego State,Mt. West,Adam Hall,177228.0,178728.0,0.0,1741708.0,nan,Others,yes,0.10175528848693352
+51,Louisville,ACC,Joe Miday,174850.0,174850.0,0.0,3618500.0,nan,Power Five,yes,0.04832112753903551
+52,Central Florida,AAC,Zach Duval,170000.0,170000.0,0.0,2325000.0,nan,Others,yes,0.07311827956989247
+53,Arizona,Pac-12,Chris Allen,167633.0,167633.0,13969.0,2730000.0,nan,Power Five,yes,0.0614040293040293
+54,North Carolina,ACC,Lou Hernandez,166531.0,166531.0,27755.0,2862500.0,nan,Power Five,yes,0.058176768558951965
+55,Georgia Tech,ACC,John Sisk,164500.0,164500.0,13708.0,2916515.0,nan,Power Five,yes,0.05640293295251353
+56,Colorado State,Mt. West,Ryan Davis,155000.0,155000.0,80833.0,1884000.0,nan,Others,yes,0.08227176220806794
+57,Oregon State,Pac-12,Evan Simon,154500.0,154500.0,25750.0,2590032.0,nan,Power Five,yes,0.05965177264219129
+58,Virginia,ACC,Frank Wintrich,150000.0,150000.0,37500.0,2710000.0,nan,Power Five,yes,0.055350553505535055
+59,Mississippi State,SEC,Nick Savage,150000.0,150000.0,12500.0,3195000.0,nan,Power Five,yes,0.046948356807511735
+60,Alabama at Birmingham,C-USA,Lyle Henley,150000.0,150000.0,1500.0,989750.0,nan,Others,yes,0.15155342258145996
+61,Boise State,Mt. West,Jeff Pitman,138612.0,139362.0,13931.0,2085101.0,nan,Others,yes,0.06647735529358051
+62,Charlotte,C-USA,Jim Durning,136950.0,136950.0,6848.0,1008500.0,nan,Others,yes,0.1357957362419435
+63,Nevada-Las Vegas,Mt. West,Sean Manuel,133900.0,133900.0,11158.0,1474532.0,nan,Others,yes,0.09080847346819194
+64,Massachusetts,Ind.,Joe Connolly,126500.0,126500.0,21000.0,897089.0,nan,Others,yes,0.14101164990318688
+65,Georgia State,Sun Belt,Scott Holsopple,125000.0,125000.0,0.0,1150949.0,nan,Others,yes,0.10860602859031981
+66,Louisiana Tech,C-USA,Kurt Hester,122800.0,122800.0,10233.0,1135000.0,nan,Others,yes,0.10819383259911894
+67,South Florida,AAC,Pat Moorer,122400.0,122400.0,0.0,1245000.0,nan,Others,yes,0.0983132530120482
+68,New Mexico,Mt. West,Lewis Satchell,120000.0,121000.0,0.0,1459875.0,nan,Others,yes,0.08219881839198562
+69,Arkansas State,Sun Belt,Kaz Kazadi,120000.0,120000.0,10000.0,1241100.0,nan,Others,yes,0.09668842156151801
+70,Fresno State,Mt. West,Andy Ward,120000.0,120000.0,0.0,1700000.0,nan,Others,yes,0.07058823529411765
+71,North Texas,C-USA,Zach Womack,120000.0,120000.0,10000.0,1335000.0,nan,Others,yes,0.0898876404494382
+72,Appalachian State,Sun Belt,Mike Sirignano,115000.0,115000.0,20000.0,1144843.0,nan,Others,yes,0.10045045477851548
+73,Louisiana-Lafayette,Sun Belt,Lewis Caralla,113563.0,113563.0,0.0,1104480.0,nan,Others,yes,0.10282033173982326
+74,Florida International,C-USA,Chad Smith,111000.0,111500.0,0.0,1371050.0,nan,Others,yes,0.08095984829145546
+75,Texas State,Sun Belt,Aaron Burkart,110000.0,110000.0,0.0,975000.0,nan,Others,yes,0.11282051282051282
+76,Central Michigan,MAC,Jason Novak,107870.0,107870.0,0.0,911329.0,nan,Others,yes,0.11836559573984806
+77,Middle Tennessee,C-USA,Jason Spray,105000.0,105000.0,8750.0,1188296.0,nan,Others,yes,0.08836182230689997
+78,Utah State,Mt. West,Dave Scholz,102722.0,102722.0,0.0,1452320.0,nan,Others,yes,0.07072959127465021
+79,Western Kentucky,C-USA,Thomas Stallworth,100008.0,100008.0,0.0,1200012.0,nan,Others,yes,0.08333916660833392
+80,Southern Mississippi,C-USA,SaJason Finley,100000.0,100000.0,0.0,820000.0,nan,Others,yes,0.12195121951219512
+81,Northern Illinois,MAC,Brad Ohrt,99000.0,99000.0,21500.0,935416.0,nan,Others,yes,0.10583526473782788
+82,Nevada,Mt. West,Jordon Simmons,98973.0,98973.0,3172.0,1524605.0,nan,Others,yes,0.06491714247296841
+83,Marshall,C-USA,Luke Day,97500.0,97500.0,0.0,1216214.0,nan,Others,yes,0.08016681274841435
+84,New Mexico State,Sun Belt,Don Decker,95995.0,97295.0,0.0,702501.0,nan,Others,yes,0.13664749231673692
+85,Toledo,MAC,Brad Bichey,94000.0,94950.0,0.0,995924.0,nan,Others,yes,0.09438471208646443
+86,Ball State,MAC,Benjamin Armer,94395.0,94895.0,0.0,961125.0,nan,Others,yes,0.09821303160358955
+87,San Jose State,Mt. West,Gary Uribe,92904.0,92904.0,0.0,1278036.0,nan,Others,yes,0.07269278799658226
+88,Troy,Sun Belt,Rafael Horton,92000.0,92000.0,80000.0,1233300.0,nan,Others,yes,0.07459661071920863
+89,Western Michigan,MAC,Grant Geib,90000.0,90000.0,5000.0,1074000.0,nan,Others,yes,0.08379888268156424
+90,South Alabama,Sun Belt,Lance Ancar,90000.0,90000.0,0.0,1090906.0,nan,Others,yes,0.08250023375066229
+91,Bowling Green,MAC,Billy Yates,85313.0,85313.0,0.0,850784.0,nan,Others,yes,0.1002757456651747
+92,Eastern Michigan,MAC,Fred Hale,82500.0,82500.0,0.0,904264.0,nan,Others,yes,0.09123441826723169
+93,Eastern Michigan,MAC,Brian Fink,82500.0,82500.0,0.0,904264.0,nan,Others,yes,0.09123441826723169
+94,Coastal Carolina,Sun Belt,Anthony Decker,82000.0,82000.0,0.0,970000.0,nan,Others,yes,0.08453608247422681
+95,Florida Atlantic,C-USA,Wilson Love,80000.0,80000.0,2500.0,1260000.0,nan,Others,yes,0.06349206349206349
+96,Buffalo,MAC,Donald Day,79000.0,79000.0,0.0,909040.0,nan,Others,yes,0.08690486667253366
+97,Texas-San Antonio,C-USA,Ryan Filo,75000.0,75000.0,0.0,1147750.0,nan,Others,yes,0.0653452406883032
+98,Akron,MAC,Matt Gildersleeve,70000.0,70000.0,0.0,919220.0,nan,Others,yes,0.07615151976675877
+99,Georgia Southern,Sun Belt,Dwayne Chandler,70000.0,70000.0,0.0,1007500.0,nan,Others,yes,0.06947890818858561
+100,Miami (Ohio),MAC,Luke Kelly,70000.0,70000.0,0.0,974000.0,nan,Others,yes,0.07186858316221766
+101,Texas-El Paso,C-USA,Kirk Davis,70000.0,70000.0,5833.0,1199860.0,nan,Others,yes,0.05834013968296301
+102,Old Dominion,C-USA,Ryan Martin,63648.0,64648.0,0.0,1109566.0,nan,Others,yes,0.05736296894461438
+103,Idaho,Sun Belt,Jake Scharnhorst,63024.0,63024.0,0.0,789402.0,nan,Others,yes,0.07983764925855268
+104,Louisiana-Monroe,Sun Belt,Ben Jacobs,55000.0,55000.0,50000.0,900000.0,nan,Others,yes,0.06111111111111111
+105,Ohio,MAC,Dak Notestine,51000.0,51000.0,0.0,971640.0,nan,Others,yes,0.05248857601580832
+106,Kent State,MAC,Sean Lockwood,37600.0,37600.0,0.0,711904.0,nan,Others,yes,0.0528161100373084
+107,Wyoming,Mt. West,Jordan Betz,30000.0,30000.0,0.0,1587612.0,nan,Others,yes,0.018896304638664863
+108,Rice,C-USA,Ryan Tedford,,,,,nan,Others,yes,
+109,Temple,AAC,David Feeley,,,,,nan,Others,yes,
+110,Wake Forest,ACC,Brandon Hourigan,,,,,nan,Power Five,yes,
+111,Syracuse,ACC,Sean Edinger,,,,,nan,Power Five,yes,
+112,Duke,ACC,Noel Durfey,,,,,nan,Power Five,yes,
+113,Stanford,Pac-12,Shannon Turley,,,,,nan,Power Five,yes,
+114,Southern Methodist,AAC,Trumain Carroll,,,,,nan,Others,yes,
+115,Texas Christian,Big 12,Don Sommer,,,,,nan,Power Five,yes,
+116,Tulane,AAC,Kyle Speer,,,,,nan,Others,yes,
+117,Army,Ind.,Scott Swanson,,,,,nan,Others,yes,
+118,Northwestern,Big Ten,Jay Hooten,,,,,nan,Power Five,yes,
+119,Brigham Young,Ind.,Nu'u Tafisi,,,,,nan,Others,yes,
+120,Penn State,Big Ten,Dwight Galt,,,,,nan,Power Five,yes,
+121,Hawaii,Mt. West,Bubba Reynolds,,,,,nan,Others,yes,
+122,Miami (Fla.),ACC,Gus Felder,,,,,nan,Power Five,yes,
+123,Southern California,Pac-12,Ivan Lewis,,,,,nan,Power Five,yes,
+124,Air Force,Mt. West,Matt McGettigan,,,,,nan,Others,yes,
+125,Vanderbilt,SEC,James Dobson,,,,,nan,Power Five,yes,
+126,Tulsa,AAC,Adam Davis,,,,,nan,Others,no,
+127,Pittsburgh,ACC,Dave Andrews,,,,,nan,Power Five,yes,
+128,Baylor,Big 12,Jeremy Scott,,,,,nan,Power Five,no,
+129,Navy,AAC,Mike Brass,,,,,nan,Others,yes,
+130,Notre Dame,Ind.,Matt Balis,,,,,nan,Others,yes,
+131,Boston College,ACC,Frank Piraino,,,,,nan,Power Five,yes,
